@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Raleway&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    background-color: #000;
+}
+h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+    margin: auto 0;
+}
+
+h2 {
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    margin: auto 0;
+}
+
+
+nav {
+    padding: 20px 0;
+}
+
+
+.left {
+    width: 29%;
+    float: left;
+    height: 100vh;
+    background-color: #E89B99;
+    color: #fff;
+}
+
+
+.right {
+    width: 70%;
+    float: left;
+    height: 100vh;
+    background-color: #FF947B;
+    color: #FFF;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.petIntro {
+    background-color: #FFC2B6;
+    text-align: center;
+    color: #2F1E6D;
+    padding: 20px;    
+}
+.petStats {
+    margin: 0;
+    padding: 20px;
+}
+
+.perla {
+    width: 300px;
+    border-radius: 50%;
+}
+
+
+.inline {
+    display: inline-block;
+    margin: 0;
+    margin-right: 15px;
+    border: 1px solid #ccc;
+    padding: 10px 30px;
+    background-color: #E89B99;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+
+.photoLeft {
+    float: left;
+    width: 300px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+}
+.center {
+    text-align: center;
+}
+
+.photoGroup {
+    text-align: center;
+}
+.photoGroup img {
+    width: 300px;
+    margin: 10px 25px;
+}
